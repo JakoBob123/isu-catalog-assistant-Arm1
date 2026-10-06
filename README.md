@@ -225,9 +225,7 @@ the right source, and every rule is checked against the loaded data before scori
 | Answers | Whether Gemini answered, cited the expected course or site, and declined the traps |
 | Correctness | Manual grades (correct / partial / wrong) in `results.csv` |
 
-To run it, start the assistant, tick `RUN_ARM1` in §13 and run that section. The questions, results,
-summary and a write-up draft are saved to [`experiments/arm1/`](experiments/arm1/); see that folder's
-README for details.
+To run it, start the assistant, tick `RUN_ARM1` in §13 and run that section.
 
 ---
 
