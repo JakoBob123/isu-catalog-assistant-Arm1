@@ -182,14 +182,14 @@ Fill this in from `comparison.md` after a full run and grading.
 
 | Measure | Gemini | Ollama |
 |---|---|---|
-| Model | | `gemma4:12b` |
-| Answered (of 50) | | |
-| Cites the right source | | |
-| Website answers with a link | | |
-| Trap questions declined (of 6) | | |
-| Seconds per answer (median) | | |
-| Graded score | | |
-| Head to head (wins / ties) | | |
+| Model | gemini-3.8-flash | gemma4:12b |
+| Answered | 50/50 (100%) | 50/50 (100%) |
+| Cites the right source | 44/44 (100%) | 44/44 (100%) |
+| Website answers with a link | 24/24 (100%) | 24/24 (100%) |
+| Trap questions declined | 3/6 (50%) | 3/6 (50%) |
+| Seconds per answer (median) | 1.5 | 4.4 |
+| Words per answer (average) | 96 | 101 |
+| Not answered | none | none |
 | Cost | Free tier, with per-minute and daily limits | Free, on this computer, no limit |
 
 ## Limits
